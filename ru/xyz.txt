@@ -1,0 +1,17 @@
+create table onion( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table potato( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table flour( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table oil( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table butter( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table pizza_bread( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table sauce( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table cheese( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table tomato( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table capsicum( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table milk( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table paneer( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table garlic( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table peas( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table pasta( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table bread( id int not null auto_increment,d_name varchar(255),primary key(id));
+create table rice( id int not null auto_increment,d_name varchar(255),primary key(id));
